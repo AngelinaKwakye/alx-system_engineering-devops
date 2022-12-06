@@ -1,2 +1,1 @@
-not empty
-not empty
+for variables
